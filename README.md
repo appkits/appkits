@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+there are some android aars
+
+upgrade aar steps:
+
+1. upload new `pom.xml` and `.aar` file 
+2. edit `jitpack.yml`
+3. publish in [jitpack.io](https://jitpack.io/)
+
 <!--
 **appkits/appkits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
